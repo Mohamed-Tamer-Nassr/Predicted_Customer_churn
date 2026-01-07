@@ -596,17 +596,6 @@ Recommendation: Standard engagement strategy
 
 ---
 
-## 👤 Author / Credits
-
-**Project Name:** ANN Customer Churn Prediction System
-
-**Created:** January 7, 2026
-
-**Context:** Part of Krish Naik's Machine Learning Starter Course
-
-- Course Path: Starter/2.MachineLearning/annclassification
-- Educational focus on foundational ML and DL concepts
-
 **Key Components:**
 
 - Training notebook: `experiments.ipynb` - Data preprocessing & model development
